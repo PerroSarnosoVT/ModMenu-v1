@@ -1,0 +1,10 @@
+{
+  "geode": "6.0.0-alpha.1",
+  "gd": { "win": "2.2091", "android": "2.2091" },
+  "version": "v1.0.0",
+  "id": "usuario.modmenu",
+  "name": "Mod Menu",
+  "developer": "Usuario",
+  "description": "Menú flotante arrastrable con muchas funciones.",
+  "resources": { "sprites": ["resources/*.png"] }
+}
